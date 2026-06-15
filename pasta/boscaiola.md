@@ -3,7 +3,7 @@
 
 ## Ingredients
 
-- rigatoni
+- rigatoni (optional)
 - pancetta
 - peas
 - mushrooms
